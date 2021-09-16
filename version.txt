@@ -1,10 +1,10 @@
 {
-"apkDownloadUrl": "https://raw.githubusercontent.com/ForLovelj/v9porn/master/apk/v9porn_v1.2.9.apk",
+"apkDownloadUrl": "www.google.com",
 "updateMessage": "
-1. 修复主页视频播放失败问题\n
-2. 修复切换视频评论未刷新问题\n
-3. 修复列表图片预览\n
-注意：无法自动更新或者9.0以上系统需要手动下载apk升级
+1. Fix the problem that the homepage video playback fails\n
+2. Fix the issue of switching video comments not refreshing\n
+3. Repair list picture preview\n
+Note: It cannot be updated automatically or the system above 9.0 needs to manually download the apk to upgrade
 ",
 "versionCode": 29,
 "versionName": "1.2.9"
